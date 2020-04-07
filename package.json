@@ -1,0 +1,23 @@
+{
+  "name": "giant_country_recidents",
+  "version": "0.0.1",
+  "description": "大国公民的思考",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascript-ming/giant_country_recidents.git"
+  },
+  "keywords": [
+    "keep",
+    "secret"
+  ],
+  "author": "ming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javascript-ming/giant_country_recidents/issues"
+  },
+  "homepage": "https://github.com/javascript-ming/giant_country_recidents#readme"
+}
